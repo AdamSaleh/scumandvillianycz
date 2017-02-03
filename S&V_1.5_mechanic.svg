@@ -402,38 +402,16 @@
        d="m 666,301.129 90,0 0,32.824 -90,0 0,-32.824 z"
        style="fill:#d8d8d8;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="path12"
-       inkscape:connector-curvature="0" /><text
-       transform="matrix(1,0,0,-1,670.5,325.1408)"
-       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:Exo;-inkscape-font-specification:Exo-DemiBold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text14">tlačit na pilu</text>
-<text
-       transform="matrix(1,0,0,-1,727.4673,325.1408)"
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7px;font-family:Exo;-inkscape-font-specification:Exo-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text18"> (zaznač  </text>
-<text
-       transform="matrix(1,0,0,-1,670.5,315.1408)"
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7px;font-family:Exo;-inkscape-font-specification:Exo-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text22"> 2x stres)  </text>
-<text
-       transform="matrix(1,0,0,-1,700.1028,315.1408)"
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:Exo;-inkscape-font-specification:Exo-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text26"> - </text>
-<text
-       transform="matrix(1,0,0,-1,703.2887,315.1408)"
-       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:Exo;-inkscape-font-specification:Exo-DemiBold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text30">anb</text>
-<text
-       transform="matrix(1,0,0,-1,712.4806,315.1408)"
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:Exo;-inkscape-font-specification:Exo-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text34"> - </text>
-<text
-       transform="matrix(1,0,0,-1,717.6665,315.1408)"
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7px;font-family:Exo;-inkscape-font-specification:Exo-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text38"> přijmi</text>
-<text
-       transform="matrix(1,0,0,-1,670.5,305.5408)"
-       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:Exo;-inkscape-font-specification:Exo-DemiBold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text42"> smlouvu s ďáblem </text>
+       inkscape:connector-curvature="0" />
+<foreignObject 
+  transform="matrix(1,0,0,-1,670.5,335.1408)" x="0" y="0" width="112" height="41"
+  style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:Exo;-inkscape-font-specification:Exo-DemiBold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+>
+<span xmlns="http://www.w3.org/1999/xhtml"><b>tlačit na pilu</b> 
+(+2 stres) <br /> - anebo - <br/>  přijmi <b>smlouvu s ďáblem</b> 
+</span>
+</foreignObject>
+
 <path
        d="m 666,286.991 90,0 0,10.303 -90,0 0,-10.303 z"
        style="fill:#d8d8d8;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -2139,7 +2117,7 @@
        inkscape:connector-curvature="0" /><text
        transform="matrix(1,0,0,-1,299.88,365.1365)"
        style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:Exo;-inkscape-font-specification:Exo-DemiBold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text1672"> Fixed </text>
+       id="text1672">Opravář</text>
 <path
        d="m 297,344.5 67.513,0 0,11.673 -67.513,0 0,-11.673 z"
        style="fill:#d8d8d8;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -2338,484 +2316,52 @@
        transform="matrix(1,0,0,-1,399.3426,504.0753)"
        style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:Wingdings;-inkscape-font-specification:Wingdings-Regular;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="text1898">   </text>
-<text
-       transform="matrix(1,0,0,-1,400.5,504.0753)"
-       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:Exo;-inkscape-font-specification:Exo-DemiBold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text1902"> Kutit </text>
-<text
-       transform="matrix(1,0,0,-1,424.3157,504.0753)"
-       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:Exo;-inkscape-font-specification:Exo-DemiBold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text1906"> : </text>
-<text
-       transform="matrix(1,0,0,-1,428.3156,504.0753)"
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:Exo;-inkscape-font-specification:Exo-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text1910"> Když řešíte odpočet za pomoci </text>
-<text
-       transform="matrix(1,0,0,-1,539.1548,504.0753)"
-       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:Exo;-inkscape-font-specification:Exo-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text1914"> zbast.</text>
-<text
-       transform="matrix(1,0,0,-1,550.5306,504.0753)"
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:Exo;-inkscape-font-specification:Exo-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text1918">/</text>
-<text
-       transform="matrix(1,0,0,-1,560.2905,504.0753)"
-       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:Exo;-inkscape-font-specification:Exo-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text1922"> hack, </text>
-<text
-       transform="matrix(1,0,0,-1,576.9943,504.0753)"
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:Exo;-inkscape-font-specification:Exo-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text1926" />
-<text
-       transform="matrix(1,0,0,-1,592.2739,504.0753)"
-       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:Exo;-inkscape-font-specification:Exo-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text1930"> +1 segment </text>
-<text
-       transform="matrix(1,0,0,-1,631.8574,504.0753)"
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:Exo;-inkscape-font-specification:Exo-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text1934"> . </text>
-<g
-       id="g1938"
-       transform="translate(397.957,461.7935)"><path
-         d="m 0,0 -5.781,3.34 0,-6.676 L 0,0 Z"
-         style="fill:none;stroke:#b5b5b5;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="path1940"
-         inkscape:connector-curvature="0" /></g><text
-       transform="matrix(1,0,0,-1,391.5,458.9029)"
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:'Wingdings 3';-inkscape-font-specification:Wingdings3;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text1942" />
-<text
-       transform="matrix(1,0,0,-1,398.5352,458.9029)"
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:Wingdings;-inkscape-font-specification:Wingdings-Regular;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text1946">   </text>
-<text
-       transform="matrix(1,0,0,-1,400.5,458.9029)"
-       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:Exo;-inkscape-font-specification:Exo-DemiBold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text1950"> Konstruktor </text>
-<text
-       transform="matrix(1,0,0,-1,448.3876,458.9029)"
-       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:Exo;-inkscape-font-specification:Exo-DemiBold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text1954"> : </text>
-<text
-       transform="matrix(1,0,0,-1,452.3635,458.9029)"
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:Exo;-inkscape-font-specification:Exo-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text1958"> Umíte  </text>
-<text
-       transform="matrix(1,0,0,-1,481.1814,458.9029)"
-       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:Exo;-inkscape-font-specification:Exo-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text1962"> zbastlit </text>
-<text
-       transform="matrix(1,0,0,-1,492.4852,458.9029)"
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:Exo;-inkscape-font-specification:Exo-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text1966">_____ komplexní obvody potřebné </text>
-<text
-       transform="matrix(1,0,0,-1,400.5,447.9254)"
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:Exo;-inkscape-font-specification:Exo-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text1970"> na vytvoření nových robotů. S AI jádry postavíte i Urboty. </text>
-<g
-       id="g1974"
-       transform="translate(397.957,436.9586)"><path
-         d="m 0,0 -5.781,3.34 0,-6.676 L 0,0 Z"
-         style="fill:none;stroke:#b5b5b5;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="path1976"
-         inkscape:connector-curvature="0" /></g><text
-       transform="matrix(1,0,0,-1,391.5,434.0679)"
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:'Wingdings 3';-inkscape-font-specification:Wingdings3;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text1978" />
-<text
-       transform="matrix(1,0,0,-1,398.5352,434.0679)"
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:Wingdings;-inkscape-font-specification:Wingdings-Regular;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text1982">   </text>
-<text
-       transform="matrix(1,0,0,-1,400.5,434.0679)"
-       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:Exo;-inkscape-font-specification:Exo-DemiBold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text1986"> Mluví s věcmi </text>
-<text
-       transform="matrix(1,0,0,-1,473.1205,434.0679)"
-       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:Exo;-inkscape-font-specification:Exo-DemiBold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text1990"> : </text>
-<text
-       transform="matrix(0.99,0,0,-1,477.3896,434.0679)"
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:Exo;-inkscape-font-specification:Exo-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text1994"> Stroje s tebou mluví když je </text>
-<text
-       transform="matrix(0.99,0,0,-1,595.9343,434.0679)"
-       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:Exo;-inkscape-font-specification:Exo-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text1998"> studuješ </text>
-<text
-       transform="matrix(0.99,0,0,-1,618.35556,434.0679)"
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:Exo;-inkscape-font-specification:Exo-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text2002"> .  </text>
-<text
-       transform="matrix(0.9854,0,0,-1,400.5,423.0905)"
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:Exo;-inkscape-font-specification:Exo-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text2006"> Nepotřebuješ nářadí na   </text>
-<text
-       transform="matrix(0.9854,0,0,-1,499.442,423.0905)"
-       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:Exo;-inkscape-font-specification:Exo-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text2010"> hack. </text>
-<text
-       transform="matrix(0.9854,0,0,-1,510.47426,423.0905)"
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:Exo;-inkscape-font-specification:Exo-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text2014"> /  </text>
-<text
-       transform="matrix(0.9854,0,0,-1,519.8541,423.0905)"
-       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:Exo;-inkscape-font-specification:Exo-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text2018"> bastlit </text>
-<text
-       transform="matrix(0.9854,0,0,-1,538.09816,423.0905)"
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:Exo;-inkscape-font-specification:Exo-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text2022"> (i když to může být riskantní,  </text>
-<text
-       transform="matrix(0.99,0,0,-1,400.4999,412.113)"
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:Exo;-inkscape-font-specification:Exo-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text2026"> nebo s limitovaným efektem). </text>
-<g
-       id="g2030"
-       transform="translate(398.0861,399.9461)"><path
-         d="m 0,0 -5.897,3.34 0,-6.676 L 0,0 Z"
-         style="fill:none;stroke:#b5b5b5;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="path2032"
-         inkscape:connector-curvature="0" /></g><text
-       transform="matrix(1,0,0,-0.98039216,391.4999,397.0555)"
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.15999985px;font-family:'Wingdings 3';-inkscape-font-specification:Wingdings3;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text2034" />
-<text
-       transform="matrix(1,0,0,-0.98039216,398.5351,397.0555)"
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.18000031px;font-family:Wingdings;-inkscape-font-specification:Wingdings-Regular;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text2038">   </text>
-<text
-       transform="matrix(1,0,0,-0.98039216,400.4999,397.0555)"
-       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.15999985px;font-family:Exo;-inkscape-font-specification:Exo-DemiBold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text2042"> Vrakoviště jak své boty: </text>
-<text
-       transform="matrix(0.9588,0,0,-1,474.4137,397.0555)"
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:Exo;-inkscape-font-specification:Exo-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text2046"> Když si cheš </text>
-<text
-       transform="matrix(0.9588,0,0,-1,514.2156,397.0555)"
-       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:Exo;-inkscape-font-specification:Exo-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text2050"> pořídit </text>
-<text
-       transform="matrix(0.9588,0,0,-1,543.17621,397.0555)"
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:Exo;-inkscape-font-specification:Exo-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text2054"> vybavení a součástky v  </text>
-<text
-       transform="matrix(0.9322875,0,0,-1,400.4999,386.078)"
-       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:Exo;-inkscape-font-specification:Exo-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text2058"> medzičase </text>
-<text
-       transform="matrix(0.9322875,0,0,-1,433.5658,386.078)"
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:Exo;-inkscape-font-specification:Exo-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text2062"> , můžeš získat 2, anebo získat </text>
-<text
-       transform="matrix(0.9322875,0,0,-1,557.0481,386.078)"
-       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:Exo;-inkscape-font-specification:Exo-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text2066"> +1 efekt </text>
-<text
-       transform="matrix(0.9322875,0,0,-1,586.45941,386.078)"
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:Exo;-inkscape-font-specification:Exo-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text2070"> level. </text>
-<g
-       id="g2074"
-       transform="translate(397.9569,373.9111)"><path
-         d="m 0,0 -5.781,3.34 0,-6.676 L 0,0 Z"
-         style="fill:none;stroke:#b5b5b5;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="path2076"
-         inkscape:connector-curvature="0" /></g><text
-       transform="matrix(1,0,0,-1,391.4999,371.0205)"
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:'Wingdings 3';-inkscape-font-specification:Wingdings3;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text2078" />
-<text
-       transform="matrix(1,0,0,-1,398.535,371.0205)"
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:Wingdings;-inkscape-font-specification:Wingdings-Regular;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text2082">   </text>
-<text
-       transform="matrix(1,0,0,-1,400.4999,371.0205)"
-       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:Exo;-inkscape-font-specification:Exo-DemiBold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text2086"> Opravář </text>
-<text
-       transform="matrix(1,0,0,-1,419.8435,371.0205)"
-       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:Exo;-inkscape-font-specification:Exo-DemiBold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text2090"> : </text>
-<text
-       transform="matrix(1,0,0,-1,424.2514,371.0205)"
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:Exo;-inkscape-font-specification:Exo-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text2094"> Získáváš </text>
-<text
-       transform="matrix(1,0,0,-1,453.2475,371.0205)"
-       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:Exo;-inkscape-font-specification:Exo-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text2098"> speciální brnění </text>
-<text
-       transform="matrix(1,0,0,-1,505.2484,371.0205)"
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:Exo;-inkscape-font-specification:Exo-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text2102"> na ochranu před mechanickými závadami. Když ti padne  </text>
-<text
-       transform="matrix(1,0,0,-1,400.4999,360.043)"
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:Exo;-inkscape-font-specification:Exo-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text2106" />
-<text
-       transform="matrix(1,0,0,-1,406.6519,360.043)"
-       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:Exo;-inkscape-font-specification:Exo-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text2110"> crit </text>
-<text
-       transform="matrix(1,0,0,-1,433.2273,360.043)"
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:Exo;-inkscape-font-specification:Exo-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text2114"> u opravy/skládání stroje, přidej vlastnost. </text>
-<g
-       id="g2118"
-       transform="translate(397.9569,347.8762)"><path
-         d="m 0,0 -5.781,3.34 0,-6.676 L 0,0 Z"
-         style="fill:none;stroke:#b5b5b5;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="path2120"
-         inkscape:connector-curvature="0" /></g><text
-       transform="matrix(1,0,0,-1,391.4999,344.9856)"
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:'Wingdings 3';-inkscape-font-specification:Wingdings3;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text2122" />
-<text
-       transform="matrix(1,0,0,-1,398.535,344.9856)"
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:Wingdings;-inkscape-font-specification:Wingdings-Regular;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text2126">   </text>
-<text
-       transform="matrix(1,0,0,-1,400.4999,344.9856)"
-       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:Exo;-inkscape-font-specification:Exo-DemiBold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text2130"> Hacker </text>
-<text
-       transform="matrix(1,0,0,-1,426.1077,344.9856)"
-       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:Exo;-inkscape-font-specification:Exo-DemiBold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text2134"> : </text>
-<text
-       transform="matrix(1,0,0,-1,430.5796,344.9856)"
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:Exo;-inkscape-font-specification:Exo-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text2138"> You get  </text>
-<text
-       transform="matrix(1,0,0,-1,460.3044,344.9856)"
-       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:Exo;-inkscape-font-specification:Exo-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text2142"> speciální brnění </text>
-<text
-       transform="matrix(1,0,0,-1,513.0389,344.9856)"
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:Exo;-inkscape-font-specification:Exo-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text2146"> když . Když  </text>
-<text
-       transform="matrix(1,0,0,-1,604.5692,344.9856)"
-       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:Exo;-inkscape-font-specification:Exo-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text2150"> odoláváš </text>
-<text
-       transform="matrix(1,0,0,-1,627.505,344.9856)"
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:Exo;-inkscape-font-specification:Exo-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text2154"> po </text>
-<text
-       transform="matrix(1,0,0,-1,400.4999,334.0081)"
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:Exo;-inkscape-font-specification:Exo-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text2158"> důsledcích hackování, hoď  </text>
-<text
-       transform="matrix(1,0,0,-1,507.4751,334.0081)"
-       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:Exo;-inkscape-font-specification:Exo-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text2162"> +1d </text>
-<text
-       transform="matrix(1,0,0,-1,518.7549,334.0081)"
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:Exo;-inkscape-font-specification:Exo-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text2166"> . </text>
-<g
-       id="g2170"
-       transform="translate(397.9052,321.8412)"><path
-         d="m 0,0 -5.735,3.34 0,-6.676 L 0,0 Z"
-         style="fill:none;stroke:#b5b5b5;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="path2172"
-         inkscape:connector-curvature="0" /></g><text
-       transform="matrix(0.9919875,0,0,-1,391.4999,318.9506)"
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:'Wingdings 3';-inkscape-font-specification:Wingdings3;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text2174" />
-<text
-       transform="matrix(0.99198889,0,0,-1,398.535,318.9506)"
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:Wingdings;-inkscape-font-specification:Wingdings-Regular;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text2178">   </text>
-<text
-       transform="matrix(0.9919875,0,0,-1,400.4999,318.9506)"
-       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:Exo;-inkscape-font-specification:Exo-DemiBold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text2182"> Srdce Mechanika: </text>
-<text
-       transform="matrix(0.9919875,0,0,-1,468.74151,318.9506)"
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:Exo;-inkscape-font-specification:Exo-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text2186"> Když mluvís od srdce, tvé slova se  </text>
-<text
-       transform="matrix(1,0,0,-1,400.4999,307.9731)"
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:Exo;-inkscape-font-specification:Exo-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text2190"> dotknou i toho největších drsňáků, tvá akce má větší  </text>
-<text
-       transform="matrix(1,0,0,-1,589.818,307.9731)"
-       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:Exo;-inkscape-font-specification:Exo-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text2194"> sílu </text>
-<text
-       transform="matrix(1,0,0,-1,618.9696,307.9731)"
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:Exo;-inkscape-font-specification:Exo-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text2198"> . </text>
-<g
-       id="g2202"
-       transform="translate(398.0861,295.8063)"><path
-         d="m 0,0 -5.897,3.34 0,-6.676 L 0,0 Z"
-         style="fill:none;stroke:#b5b5b5;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="path2204"
-         inkscape:connector-curvature="0" /></g><text
-       transform="matrix(1,0,0,-0.98039216,391.4999,292.9156)"
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.15999985px;font-family:'Wingdings 3';-inkscape-font-specification:Wingdings3;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text2206" />
-<text
-       transform="matrix(1,0,0,-0.98039216,398.535,292.9156)"
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.18000031px;font-family:Wingdings;-inkscape-font-specification:Wingdings-Regular;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text2210">   </text>
-<text
-       transform="matrix(1,0,0,-0.98039216,400.4999,292.9156)"
-       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.15999985px;font-family:Exo;-inkscape-font-specification:Exo-DemiBold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text2214"> Vytunit </text>
-<text
-       transform="matrix(1,0,0,-0.98039216,440.9035,292.9156)"
-       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.15999985px;font-family:Exo;-inkscape-font-specification:Exo-DemiBold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text2218"> : </text>
-<text
-       transform="matrix(1,0,0,-0.98039216,446.04558,292.9156)"
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.15999985px;font-family:Exo;-inkscape-font-specification:Exo-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text2222"> Když využiješ  </text>
-<text
-       transform="matrix(1,0,0,-0.98039216,518.7028,292.9156)"
-       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.15999985px;font-family:Exo;-inkscape-font-specification:Exo-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text2226"> gambit </text>
-<text
-       transform="matrix(1,0,0,-0.98039216,547.36838,292.9156)"
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.15999985px;font-family:Exo;-inkscape-font-specification:Exo-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text2230"> na  </text>
-<text
-       transform="matrix(1,0,0,-0.98039216,566.666,292.9156)"
-       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.15999985px;font-family:Exo;-inkscape-font-specification:Exo-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text2234"> bastl. </text>
-<text
-       transform="matrix(1,0,0,-0.98039216,579.56258,292.9156)"
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.15999985px;font-family:Exo;-inkscape-font-specification:Exo-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text2238"> kvůli opravě, nebo  </text>
-<text
-       transform="matrix(1,0,0,-1,400.4999,281.9382)"
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:Exo;-inkscape-font-specification:Exo-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text2242"> vylepšení, najednou bude věc  </text>
-<text
-       transform="matrix(1,0,0,-1,576.6091,281.9382)"
-       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:Exo;-inkscape-font-specification:Exo-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text2246"> kvalitnější </text>
-<text
-       transform="matrix(1,0,0,-1,603.7207,281.9382)"
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:Exo;-inkscape-font-specification:Exo-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text2250"> až do  </text>
-<text
-       transform="matrix(1,0,0,-1,400.4999,270.9607)"
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:Exo;-inkscape-font-specification:Exo-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text2254"> konce zakázky. </text>
-<g
-       id="g2258"
-       transform="translate(397.9105,258.7938)"><path
-         d="m 0,0 -5.74,3.34 0,-6.676 L 0,0 Z"
-         style="fill:none;stroke:#b5b5b5;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="path2260"
-         inkscape:connector-curvature="0" /></g><text
-       transform="matrix(0.9928125,0,0,-1,391.4999,255.9032)"
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:'Wingdings 3';-inkscape-font-specification:Wingdings3;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text2262" />
-<text
-       transform="matrix(0.99281111,0,0,-1,398.5351,255.9032)"
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:Wingdings;-inkscape-font-specification:Wingdings-Regular;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text2266">   </text>
-<text
-       transform="matrix(0.9928125,0,0,-1,400.4999,255.9032)"
-       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:Exo;-inkscape-font-specification:Exo-DemiBold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text2270"> Analytik </text>
-<text
-       transform="matrix(0.9928125,0,0,-1,430.7872,255.9032)"
-       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:Exo;-inkscape-font-specification:Exo-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text2274"> : </text>
-<text
-       transform="matrix(0.9928125,0,0,-1,434.25945,255.9032)"
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:Exo;-inkscape-font-specification:Exo-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text2278"> Když  </text>
-<text
-       transform="matrix(0.9928125,0,0,-1,469.9592,255.9032)"
-       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:Exo;-inkscape-font-specification:Exo-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text2282"> hack. </text>
-<text
-       transform="matrix(0.9928125,0,0,-1,487.87525,255.9032)"
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:Exo;-inkscape-font-specification:Exo-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text2286"> systém, můžeš se také zeptat na  </text>
-<text
-       transform="matrix(1,0,0,-1,400.4999,244.9257)"
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:Exo;-inkscape-font-specification:Exo-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text2290"> lokaci vlastníka systému, jako když hodíš 6 na  </text>
-<text
-       transform="matrix(1,0,0,-1,400.4999,232.7483)"
-       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:Exo;-inkscape-font-specification:Exo-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text2294"> získání informací </text>
-<text
-       transform="matrix(1,0,0,-1,438.9075,232.7483)"
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:Exo;-inkscape-font-specification:Exo-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text2298"> . </text>
-<g
-       id="g2302"
-       transform="translate(397.957,218.4214)"><path
-         d="m 0,0 -5.781,3.34 0,-6.676 L 0,0 Z"
-         style="fill:none;stroke:#b5b5b5;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="path2304"
-         inkscape:connector-curvature="0" /></g><text
-       transform="matrix(1,0,0,-1,391.4999,215.5308)"
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:'Wingdings 3';-inkscape-font-specification:Wingdings3;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text2306" />
-<text
-       transform="matrix(1,0,0,-1,398.5351,214.5308)"
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:Wingdings;-inkscape-font-specification:Wingdings-Regular;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text2310">   </text>
-<g
-       id="g2314"
-       transform="translate(406.1171,218.4214)"><path
-         d="m 0,0 -5.781,3.34 0,-6.676 L 0,0 Z"
-         style="fill:none;stroke:#b5b5b5;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="path2316"
-         inkscape:connector-curvature="0" /></g><text
-       transform="matrix(1,0,0,-1,399.6601,215.5308)"
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:'Wingdings 3';-inkscape-font-specification:Wingdings3;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text2318" />
-<text
-       transform="matrix(1,0,0,-1,406.6953,214.5308)"
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:Wingdings;-inkscape-font-specification:Wingdings-Regular;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text2322">   </text>
-<g
-       id="g2326"
-       transform="translate(414.2773,218.4214)"><path
-         d="m 0,0 -5.781,3.34 0,-6.676 L 0,0 Z"
-         style="fill:none;stroke:#b5b5b5;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="path2328"
-         inkscape:connector-curvature="0" /></g><text
-       transform="matrix(1,0,0,-1,407.8203,215.5308)"
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:'Wingdings 3';-inkscape-font-specification:Wingdings3;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text2330" />
-<text
-       transform="matrix(1,0,0,-1,414.8554,214.5308)"
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:Wingdings;-inkscape-font-specification:Wingdings-Regular;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text2334">   </text>
-<text
-       transform="matrix(1,0,0,-1,415.9804,215.5308)"
-       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:Exo;-inkscape-font-specification:Exo-DemiBold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text2338"> Veterán </text>
-<text
-       transform="matrix(1,0,0,-1,447.3001,215.5308)"
-       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:Exo;-inkscape-font-specification:Exo-DemiBold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text2342"> : </text>
-<text
-       transform="matrix(1,0,0,-1,451.428,215.5308)"
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:Exo;-inkscape-font-specification:Exo-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text2346"> Zvol  </text>
-<text
-       transform="matrix(1,0,0,-1,485.6118,215.5308)"
-       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:Exo;-inkscape-font-specification:Exo-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text2350"> speciální schopnost </text>
-<text
-       transform="matrix(1,0,0,-1,537.155,215.5308)"
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:Exo;-inkscape-font-specification:Exo-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text2354"> from jiné postavy. </text>
+<foreignObject 
+  x="0" y="0" width="212" height="41"
+  transform="matrix(1,0,0,-1,405.3157,511.0753)"
+  style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:Exo;-inkscape-font-specification:Exo-DemiBold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+>
+<span style="list-style: none" xmlns="http://www.w3.org/1999/xhtml">
+     <b>Kutit :</b> Když řešíte odpočet za pomoci <b>zbastlit</b>/<b>hacknout</b>, zaznač +1 segment 
+</span>
+</foreignObject>
+
+<foreignObject 
+  x="0" y="0" width="212" height="441"
+  transform="matrix(1,0,0,-1,405.3157,471.0753)"
+  style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:Exo;-inkscape-font-specification:Exo-DemiBold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+>
+<span style="list-style: none" xmlns="http://www.w3.org/1999/xhtml">
+<p>
+▷ <b>Konstruktor</b> Umíte <b>zbastlit</b> komplexní obvody potřebné na vytvoření nových robotů. S AI jádry postavíte i Urboty. 
+</p><p>
+▷ <b>Mluví s věcmi Stroje</b> s tebou mluví když je  <b>studuješ</b> Nepotřebuješ nářadí na <b>hacking</b> / <b>bastlit</b> (i když to může být <b>riskantní</b>,  nebo s <b>limitovaným</b> efektem). 
+
+</p><p>
+▷ <b>Doma na vrakovišti</b>:  Když si cheš pořídit vybavení a součástky v  medzičase , můžeš získat <b>2</b>, anebo získat  <b>+1 efekt</b>  level. 
+
+</p><p>
+▷ <b>Opravář</b>  Získáváš  <b>speciální brnění</b>  na ochranu před mechanickými závadami. Když ti padne <b>crit</b> u opravy/skládání stroje, přidej vlastnost.
+
+</p><p>
+▷ <b>Hacker</b>  speciální brnění  Když odoláváš  po  důsledcích <b>hackování</b>, hoď  <b>+1d</b> 
+
+</p><p>
+▷ <b>Srdce Mechanika</b>: Když mluvís od srdce, tvé slova se dotknou i toho největších drsňáků, tvá akce má <b>+1 efekt</b>
+
+</p><p>
+▷ <b>Vytunit</b> Když využiješ  gambit na <b>bastleni</b> kvůli opravě, nebo vylepšení, najednou bude věc <b>kvalitnější</b>  až do konce zakázky. 
+
+</p><p>
+▷ <b>Analytik</b>  Když  <b>hackuješ</b>  systém, můžeš se také zeptat na  lokaci vlastníka systému, jako když hodíš 6 na  <b>získání informací</b> 
+
+</p><p>
+▷ ▷ ▷ <b>Veterán</b>  Zvol  <b>speciální schopnost</b>  jiné postavy. 
+</p>
+</span>
+</foreignObject>
+
+
 <path
        d="m 387,189 126,0 0,9 -126,0 0,-9 z"
        style="fill:#b5b5b5;fill-opacity:1;fill-rule:nonzero;stroke:none"
