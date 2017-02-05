@@ -1924,12 +1924,12 @@
   style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:Exo;-inkscape-font-specification:Exo-DemiBold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
 >
 <span style="list-style: none" xmlns="http://www.w3.org/1999/xhtml">
- ▢ ▢  <b>Vera, Vynikající Sniperka</b> <br />
-▢ ▢ <b>Zmej, Vynikající Plamenoment</b> <br />
-▢ <b>Sunder, Vynikající Rotomeč</b> <br />
-▢ ▢ Zaratuštra, Granátomet <br />
-▢ ▢ <b>Vynikající bojové umění</b> <br />
-▢ <i>Mystická munice </i> <br />
+ ▢ ▢  Sečná zbraň <br />
+▢ obětiny <br />
+▢ Náboženský symbol <br />
+▢ <i>Zastaralý hábit</i> <br />
+▢ Artefakt předchůdců <br />
+▢ <i>Suvenír z cest</i> <br />
     </span>
 </foreignObject>
 <g
@@ -1955,7 +1955,7 @@
 <text
        transform="matrix(1,0,0,-1,416.0001,177.3001)"
        style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:Exo;-inkscape-font-specification:Exo-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text1554"> Krieger, vynikající pistole ▢ </text>
+       id="text1554"> Horux, bývalý učitel </text>
 <g
        id="g1558"
        transform="translate(402.2891,162.8511)"><path
@@ -1979,7 +1979,7 @@
 <text
        transform="matrix(1,0,0,-1,416.0001,162.2251)"
        style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:Exo;-inkscape-font-specification:Exo-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text1582"> Shod, překupník zbraní </text>
+       id="text1582"> Hicks, obchodník s mystikou </text>
 <g
        id="g1586"
        transform="translate(402.2891,147.776)"><path
@@ -2003,7 +2003,7 @@
 <text
        transform="matrix(0.98,0,0,-1,416.0001,147.1501)"
        style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:Exo;-inkscape-font-specification:Exo-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text1610"> Chon-zek, lovec lidí </text>
+       id="text1610"> Laxx, xeno </text>
 <g
        id="g1614"
        transform="translate(402.2891,132.701)"><path
@@ -2027,7 +2027,7 @@
 <text
        transform="matrix(1,0,0,-1,416.0001,132.075)"
        style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:Exo;-inkscape-font-specification:Exo-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text1638"> Yazu, úplatný polda </text>
+       id="text1638"> Rye, neopětovaná láska </text>
 <g
        id="g1642"
        transform="translate(402.2891,117.626)"><path
@@ -2051,7 +2051,7 @@
 <text
        transform="matrix(1,0,0,-1,416.0001,117)"
        style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:Exo;-inkscape-font-specification:Exo-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text1666"> Aya, nájemný vrah </text>
+       id="text1666"> Blish, mystik </text>
 <path
        d="m 297,362.5 67.428,0 0,11.673 -67.428,0 0,-11.673 z"
        style="fill:#d8d8d8;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -2059,7 +2059,7 @@
        inkscape:connector-curvature="0" /><text
        transform="matrix(1,0,0,-1,299.88,365.1365)"
        style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:Exo;-inkscape-font-specification:Exo-DemiBold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text1672">Zrozen v boji</text>
+       id="text1672">Pod ochranou</text>
 <path
        d="m 297,344.5 67.513,0 0,11.673 -67.513,0 0,-11.673 z"
        style="fill:#d8d8d8;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -2264,7 +2264,7 @@
   style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:Exo;-inkscape-font-specification:Exo-DemiBold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
 >
 <span style="list-style: none" xmlns="http://www.w3.org/1999/xhtml">
-     <b>Nezastavitelný :</b> Když <b>tlačíš na pilu</b>, v boji zblízka jsi velikostí sám roven půl tuctu (normálně máš <i>-1 efekt</i> level), můžeš také předvést svou nadlidskou sílu.
+     <b>Provází tě síla:</b> Když musíš zaplatit nějaké množství <b>stresu</b>, můžeš zaplatit <b>gambitem</b>.
 </span>
 </foreignObject>
 
@@ -2274,30 +2274,28 @@
   style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:Exo;-inkscape-font-specification:Exo-DemiBold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
 >
 <span style="list-style: none" xmlns="http://www.w3.org/1999/xhtml">
-<p>
-▷ <b>Demoliční četa :</b> Jsi nechvalně známý pro svou sílu a zuřivost. V boji zblízka máš <b>+1 efekt</b> level. Když použiješ <b>gambit</b> získává tvůj ůtok na <b>síle</b>.    
-</p><p>
-▷ <b>Jenom škrábnutí :</b> Na začátku <b>medzičasu</b> si zaznač <b>+3 segmenty</b> na tvém <b>uzdravovacím odpočtu</b>. Když <b>tlačíš na pilu</b> aby jsi zmírnil důsledky zranění pro jednu ze svých akcí, stojí tě jen <b>1 stress</b>. 
-</p><p>
-▷ <b>V záloze</b>: když spoluhráč <b>tlačí na pilu</b> po tvé <b>přípravě</b> nebo <b>pomoci</b> stojí ho jenom <b>1 stress</b>. 
-</p><p>
-▷ <b>Zrozen v boji</b>  Získáváš  <b>speciální brnění</b>  na ochranu před fyzickým ůtokem. Když dostaneš <b>zranění</b>, zmaž <b>1 stress</b>.
+<br />
+▷ <b>Kineze :</b> <b>vnímáním</b> proudu síly skrz nedaleký objekt ním můžeš pohnout. Zaplatíš <b>0-6 stresu</b>, podle rozsahu, rychlosti a přesnosti pohybu. Můžeš použít i na sebe.    
+<br />
+▷ <b>Nabité ostří :</b> dokážeš nabít svou sečnou zbraň mystickou energií. Zbraň potom lehce prořízne 
+libovoným materiálem, který není pod štítem. Útoky získávají na <b>síle</b>. 
+<br />
+▷ <b>Meditace</b>: přidej si <b>meditaci</b> medzi své <b>neřesti</b>. Když medituješ, odstraň <b>+1 stres</b>, když to <b>přeženeš</b>, můžeš dostat <b>temné vize</b>. 
+<br />
+▷ <b>Vyrovnaný :</b> Dokážeš zablokovat výstřel blasteru použitím síly. Když <b>odoláváš</b> svou <b>statečností</b> máš <b>+1d</b>. Když odoláš výstřelu, múžeš minout <b>1 stres</b> aby si výstřel přesměroval. 
+<br />
+▷ <b>Pod ochranou :</b> Máš <b>speciální brnění</b> vůči mystickým ůtokům. Když hodíš <b>crit</b> u uplatňování mystických schopností, zmaž <b>1 stres</b> a přidej <b>1 gambit</b>. 
+<br />
+▷ <b>Dotek mysli :</b> přidej <b>2x stres</b> aby jsi zatemnil někoho mysl a <b>ovlivnil</b> ho i tváří tvář protichůdným faktům. Za každou další vlastnost <b>1 stres</b>: <i>mají jenom matné vzpomínky</i> - <i>ovlivní celou malou skupinu</i>
+<br />
+▷ <b>Vize :</b> za <b>1 stres</b> můžeš uvidět vzdálené místo, nebo osobu se kterou jsi nějak osobně svázán.
+  Za každou další vlastnost <b>1 stres</b>: <i>vidíš až minutu, ne jen jeden moment</i> - <i>tvůj cíl tě taky vidí a slyší</i> - <i>nemusíš mít osobní pouto, stačí když to znáš</i>
 
-</p><p>
-▷ <b>Lovec :</b> když míříš akci na někoho slabého, nebo zranitelného, hoď <b>+1d</b>. Když chceš 
-<b>získat informace</b> o slabosti/ztanitelnosti, nejhůře ti může padnout <b>standartní (4-5)</b> vysledek. 
-</p><p>
-▷ <b>Naháníš hrůzu :</b> a vidí to i absolutně nevšímavý, tvá akce má větší <b>sílu</b>, když chceš někoho zastrašit. Pokud se zastrašování děje po ukázce síly, máš také <b>+1d</b>
-
-</p><p>
-▷ <b>Ochranka</b> když <b>chráníš</b> spoluhráče, k <b>odolávání</b> máš <b>+1d</b> 
-
-</p><p>
-▷ <b>Analytik</b>  Když  <b>hackuješ</b>  systém, můžeš se také zeptat na  lokaci vlastníka systému, jako když hodíš 6 na  <b>získání informací</b> 
-
-</p><p>
+<br />
+▷ <b>Drcení</b> skrz <b>vnímání</b> síly můžeš začít ohýbat časoprostor ve své blízkosti, aby si něco rozdrtil. Za každou vlastnost <b>1 stres</b>: <i>spůsobíš těžké zranění</i> - <i>zasáhneš oblast o velikosti 4 místného vznášedla</i> - <i>můžeš znehybnit místo poškození</i> - <i>akce na tobě nezanechá stopy</i>
+<br />
 ▷ ▷ ▷ <b>Veterán</b>  Zvol  <b>speciální schopnost</b>  jiné postavy. 
-</p>
+<br />
 </span>
 </foreignObject>
 
@@ -2404,15 +2402,15 @@
          inkscape:connector-curvature="0" /></g><text
        transform="matrix(1,0,0,-1,588,551.2172)"
        style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7px;font-family:Exo;-inkscape-font-specification:Exo-Regular;writing-mode:lr-tb;fill:#646464;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text2468"> drsnej s  </text>
+       id="text2468"> poutník </text>
 <text
        transform="matrix(1,0,0,-1,588,542.8172)"
        style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7px;font-family:Exo;-inkscape-font-specification:Exo-Regular;writing-mode:lr-tb;fill:#646464;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text2472"> každou zbraní</text>
+       id="text2472"> Galaxií </text>
 <text
        transform="matrix(0.8,0,0,-1,400.5,542.3171)"
        style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.25px;font-family:Metro;-inkscape-font-specification:Metro;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text2476"> Hrubá sila</text>
+       id="text2476"> Mystik </text>
 <g
        id="g2548"
        transform="translate(37.7184,549.2859)"
@@ -2669,7 +2667,7 @@
 <text
        transform="matrix(1,0,0,-1,403.75,59.4534)"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7px;font-family:Exo;-inkscape-font-specification:Exo-Regular-Italic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text2766"> Když zvládneš těžkou výzvu silou, nebo vyhrožováním. </text>
+       id="text2766"> Když zvládneš těžkou výzvu moudrostí, nebo mystikou. </text>
 <text
        transform="matrix(1,0,0,-1,394.75,50.3943)"
        style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7px;font-family:'Wingdings 2';-inkscape-font-specification:Wingdings2;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
